@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Signature Builder
 ---
 ## Welcome to GitHub Pages
