@@ -2,12 +2,12 @@
 layout: page
 title: Support
 ---
-# Signature Builder Support
+## Signature Builder Support
 
 ## Having trouble?
 Check out the [issues](https://github.com/evansmith1377/signature-builder-public/issues/new/choose) page.
 
-## Sponsor
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
