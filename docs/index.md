@@ -9,4 +9,3 @@ Check out the [issues](https://github.com/evansmith1377/signature-builder-public
 
 ## Sponsor
 [Donate](https://github.com/sponsors/evansmith1377) to this project!
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
